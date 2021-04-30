@@ -20,6 +20,8 @@
 header{
     background-color: sienna;
     color: silver;
+    height:250px;
+    width:250px ;
 }
 body{
     background-color:black;
