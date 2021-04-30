@@ -1,0 +1,5 @@
+Web design workflow:
+Gather Content
+Make design decisions
+Add a style guide
+Wireframe
