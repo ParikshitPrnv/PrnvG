@@ -10,7 +10,7 @@ function flipMode(){
   }
   function nightMode(){
 
-    document.body.style.backgroundColor="#000000";
+    document.body.style.backgroundColor="#17202A";
     document.body.style.color="#FFFFFF";
   }
   function dayMode(){
